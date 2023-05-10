@@ -1,6 +1,6 @@
 # O Nosso País.
 
-A idéia deste projeto é ter uma referência do trabalho com Arquitetura Distribuida.
+A idéia deste projeto é ter uma referência de como implementar a Arquitetura Distribuida.
 
 O projeto está em fase inicial e seu requisito está descrito abaixo.
 
