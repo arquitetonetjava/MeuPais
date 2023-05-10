@@ -1,6 +1,6 @@
 # O Nosso País.
 
-A idéia deste projeto é ter uma referência de como implementar a Arquitetura Distribuida.
+A idéia deste projeto é ter uma referência de quais os processos e passos necessários para se implementar a Arquitetura Distribuida. Além de tecnologia conta com a análise de negócios e Levantamento de Requisitos, com ótima documentação.
 
 O projeto está em fase inicial e seu requisito está descrito abaixo.
 
